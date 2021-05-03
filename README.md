@@ -1,2 +1,2 @@
 # Hotel 
- Sistema para cadatras Hóspedes
+ Sistema para cadastra Hóspedes
